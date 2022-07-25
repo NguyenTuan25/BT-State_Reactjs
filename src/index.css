@@ -11,20 +11,4 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
-.bg {
-  background-image: url(/public/img/glassesImage/background.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  width: 100%;
-  height: auto;
-}
-.col-sm-6 .img-model {
-  position: relative;
-  left: -225px;
-  top: -50px;
-}
-.desc{
-  background-color: orange;
-  width: 300px;
-}
+

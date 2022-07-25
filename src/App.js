@@ -1,7 +1,8 @@
 // import logo from './logo.svg';
 // import './App.css';
 import React from "react";
-import SelectGlasses from "./BT_Glasses/SelectGlasses";
+import Glasses from "./BT_Glasses/Glasses";
+
 function App() {
   // return (
   //   <div className="App">
@@ -21,7 +22,7 @@ function App() {
   //     </header>
   //   </div>
   // );
-  return <SelectGlasses />;
+  return <Glasses />;
 }
 
 export default App;
